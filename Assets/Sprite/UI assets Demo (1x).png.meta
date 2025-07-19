@@ -1,0 +1,2723 @@
+fileFormatVersion: 2
+guid: a218cb6caebd9e746ab658a1cc4d39c8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 470
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081aad21c784a7f4bbdd81be94eba8b6
+      internalID: -1598288190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 470
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334f9c2859990a94cbf32c12cf8e97fe
+      internalID: -30468590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 467
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53225f987fa34c4a8acc3704766f109
+      internalID: -1687613822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5875121e2fd20e4f922b6e12bae4146
+      internalID: 682853910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 448
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905f05d61041a5a47b2a0c9c5c8f41c8
+      internalID: 919918066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 449
+        width: 46
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d156f2da6c22f4b95b76e5e5880ceb
+      internalID: -106002466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 160
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703a975ad57aad24ca1e5c01fac436a0
+      internalID: -1514627243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 405
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bdad6b93f0dc04c98bb1ce27d54127
+      internalID: -1181545494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 405
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53c552a02bb1004a8c9fd32beedd0b5
+      internalID: 621560181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 405
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aa11457e3ae744caf883c84b985b3d
+      internalID: 506769229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 406
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7f7e885b45f244fbaa9ca8c9b843dd
+      internalID: -1415308412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 404
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c7aa1a8960f194da01b45c0908b38e
+      internalID: 1830451864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 404
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28000ffcd023ce041991c80af7aefbec
+      internalID: 600734221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 402
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7795d45ddd050474a993a02392e99c77
+      internalID: -1414077219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_14
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 403
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06291a67f8f010459b82c29b0370f07
+      internalID: 1392781116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 403
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddc9e92c1fd63241ad98123d13bae4c
+      internalID: 168936743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 386
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29676e68a4ac0640b510f98213bdc29
+      internalID: -1244169475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 386
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d74821ad1dc2204aa4f3a22dddd7855
+      internalID: -845639884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 388
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c87899dda6940448be63a266698a623
+      internalID: -1726115544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 388
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4617b294131de34599c3b787685b681
+      internalID: 595471144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_20
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 389
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0434e408f1b8f4cb30f68bbc1a6cfb
+      internalID: -1481858042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 390
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b95251a873b6d847b8f142f36c3d3eb
+      internalID: 1300146627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 369
+        width: 46
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fce65840d7fc9948a2f9e8c669bbbd6
+      internalID: -1059512989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 369
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c33cf079dc1d648b5fd8733999c40c
+      internalID: 893786668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 369
+        width: 46
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5c1eab1f071ca42b45d1436963098a
+      internalID: 1441623353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_25
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 369
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5fc38bc8623fa4eb2ec0969dfe5731
+      internalID: -1052587864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_26
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 369
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bf41e1ed5641140bd1541d18a7761b
+      internalID: 223385843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_27
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 369
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3004f6ac34bc37748b7b2de82c5a1414
+      internalID: 1472175870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_28
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 371
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26c3fd4f388b8a4cb8d9ab1dcfac431
+      internalID: -1393007080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_29
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 371
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4879b49cae371994a9de00e9c550aedd
+      internalID: -1287908368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_30
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 371
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5e7e5400ae17a45becbccc701ad9c5
+      internalID: 1646402369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 352
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c15c4b79f395784bb71ebb1ce197a3e
+      internalID: 2020672390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bca1007957b9c64e833573148324dd5
+      internalID: 2147165877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 352
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6356e2a778ea8f40b850882d87b5594
+      internalID: 1568555237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_35
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 352
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d863a7ae7f8234448a1d2e6f958e386
+      internalID: 1103946187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_36
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 352
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d99fe1eb59e09a43bed505b6eeb8481
+      internalID: 1048863205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_37
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 354
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acadd12e887baa944b706abdede9a068
+      internalID: 1096681888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_38
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 354
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d7f60e1badff54e8512b9b10a1c207
+      internalID: -797274865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_39
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 354
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71118179def281a4382e0820ecaa8fd3
+      internalID: 622491623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 4, z: 3, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42834b9970a35984d82384b1e0e7d529
+      internalID: 1543347324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 322
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbd4572cb20bed4e9641c6e6d99cf78
+      internalID: -457512242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_43
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 322
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f987c9a2ad778764d8b2ffc0cafa15d7
+      internalID: -346154508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_44
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 322
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecb944ccca2e514db637b156706b08f
+      internalID: 192128849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 322
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa9f451d1093d047b4a2dad50228230
+      internalID: 485580061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_46
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 322
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c36924a65a6eb045b171f274d10f278
+      internalID: 1984903703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_47
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 322
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b5d0a773e2faf47bc040d7904dfe14
+      internalID: 1635909181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_48
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 322
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b30430f2e655c42b1fc518e2c8a4ae
+      internalID: 1251658227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_49
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 322
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61466dd827e61db4683a8d01506c0e85
+      internalID: 1866123703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_50
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 322
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ed85c2609e52e4795d4a15d67a4c19
+      internalID: 1554374055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 306
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e233550c3016d40a719b13c2c30e7a
+      internalID: 1921714946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 306
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ad39025cdc9a9488a7d1c3f58bc406
+      internalID: 1724896548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_53
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 306
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39240ad4eee10fe4bb4e5d39a72cf0b0
+      internalID: -1932068324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_54
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 306
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40ca2e225d4aea4c8731f504eda45bf
+      internalID: -1643524459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_55
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 306
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b303818372f9cb4da09374be721ed33
+      internalID: 688433034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 290
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a86c4da0b4b9648a8668b77d05b5d9
+      internalID: -1322832940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_57
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 290
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bddbd771bb555147aff4fa3bfa2e3e7
+      internalID: 2002809088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_58
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 290
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e6adb852aeab7459763bc42ad6d592
+      internalID: -260321114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_59
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 290
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69e73fbc06801e4d8d541f6e79eaff4
+      internalID: -1141278084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 274
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feca2fc593d942d4aa779f36d68e0f95
+      internalID: 281930869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_61
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 274
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89074f91052674c42acf106b12bab808
+      internalID: 804585283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_62
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 274
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca62e46631b9cc94a8429f7652fce809
+      internalID: -1525040016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_63
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 274
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc450b4c309a25c4d9007f49f93e5998
+      internalID: 364780774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_64
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 274
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd76fdb6de863904aa794ff96c6ed1b6
+      internalID: 1361522470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_65
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 259
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68dbba5a382ae142a0230030a90c938
+      internalID: 2104659995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_66
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 259
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be0bb8bffbd8124b994d8410b3ce3bf
+      internalID: 1251934979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_67
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 259
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9040e100799faa448b6889651bab4287
+      internalID: 1958642155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_68
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 259
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8a089d690b0bc42bba0964174195e1
+      internalID: 1248211328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_69
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 257
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08e85ff33283bb4a97cb3ed638dae8c
+      internalID: 1817371149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_70
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 257
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d9f94c3c95d5646bf7917099476769
+      internalID: 1355039268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_71
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 257
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb75185464690304b8e98a8053b308ca
+      internalID: 1224601735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_72
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 257
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1db36f68923d64b92c6fde52c86ff2
+      internalID: 352382834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 242
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f618916c5ca4c94a8935442184e24f3
+      internalID: 20049132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_74
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 242
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ebc3fb7baf3ff4cb25f6db053f8a0c
+      internalID: -1616277099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_75
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 242
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3d91f6f7ad88e449372499f7ef4dbf
+      internalID: -267417551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_76
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 242
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fb77e9814713b42b64499ff0b4cab9
+      internalID: 834922418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_77
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 242
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc096349e86a09e42ae84636beef23b8
+      internalID: 141008771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_78
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 242
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4d182d0d7ce6c45b5e26ac10c26037
+      internalID: 1588339079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_79
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 242
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8c8bedf3281884aad100d5edffa915
+      internalID: 1580674664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_80
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 242
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b922f4eb81ee4e43af2dc9dc2dcbcf6
+      internalID: -1528298831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 227
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b86246e33e9caf4e802f6341d4d1bdb
+      internalID: -221411389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_82
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3b8cc6de5221743ab68c1770c0c285
+      internalID: 1859770517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_83
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 227
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dc6ce38f569214399981328bac186e
+      internalID: 271583320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_84
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 227
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d069360a652be43b98229a670fd08b
+      internalID: -1460862766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_85
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 225
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e712658a9510b4cb6334faca74c12f
+      internalID: 487936612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_86
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 227
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80115cb2b9875014ca935848fe1a193d
+      internalID: 1045633872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_87
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 211
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d704ad0f372594e8df06d8d0dffce1
+      internalID: 1748044307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_88
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9773621681d693244980beaad1e2a37d
+      internalID: -1960744780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_89
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 211
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca79a5740a5bc94aa05e2dd01beb70b
+      internalID: 181814040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_90
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 211
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ad17ea05bf9bc4595de4e5db0e1c5f
+      internalID: -649615161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_91
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 209
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4b79bf0fc7b0247a7105df637e0071
+      internalID: -996416866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_92
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 211
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1d3d702672abc418594ea411b2ebae
+      internalID: 1240836168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_93
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 195
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6092baca61e3c14fabe2bf734fc4551
+      internalID: 1701058901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_94
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16589d41cf1155846a76a48a0963f7e1
+      internalID: 1960510767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_95
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 195
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eae3412013448c408c3689f301a8dc5
+      internalID: -1367084832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_96
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 195
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cc6539ea1ede942aec3c7b9fe1da69
+      internalID: 95998655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_97
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 193
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9012e5fe5ebbee45a219cd5b7930844
+      internalID: 1044425127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_98
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 195
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3185644759bbf947aa1743c70002ffa
+      internalID: 732927113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_99
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 179
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f774070c199da7640a7265a3f19a1e13
+      internalID: -1952592755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_100
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e9d386121339d4099ce281f583d07d
+      internalID: -946091897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_101
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 179
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e688596987440b4489c1a5ffafefc94f
+      internalID: -355701300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_102
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 179
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fbc200abbce4845bd77504586c3ff4
+      internalID: 340465686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_103
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 177
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d383977571a9ef499d986a7a9e54f93
+      internalID: 1043330183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_104
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 179
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c16a36596779e14a83633a0357c5959
+      internalID: 1036477245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_105
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 163
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675be4464fbd7a64ca64bb420cc9d63e
+      internalID: -330654570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_106
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cb3e699139d224ca453c9e1dc96c08
+      internalID: -254086479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_107
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 163
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895c41bb5f9a40b47a2767ae2347c955
+      internalID: 56374596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_108
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 163
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64589a7afb632c948a1211d030f50889
+      internalID: -1460384302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_109
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 161
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24968ac3df21b734eab94ce888e949e2
+      internalID: -1023180455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_110
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 163
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab0d1389df153c438c7ecbcf535e9f0
+      internalID: 375148703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 343
+        width: 40
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d1171f9bc1e95499ad268bb6ec0cbc
+      internalID: 1882041718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_111
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 343
+        width: 40
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f58788b4117fd04fa39f5497d3d70ca
+      internalID: 1350204641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_112
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 343
+        width: 40
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53667b28f38f5134bb0c50f8029f69a8
+      internalID: 360735753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_113
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 343
+        width: 40
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d8cc090cd300d4eb539d8b1070fb9b
+      internalID: 946025784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_41
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 343
+        width: 40
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74be411cb2bf2ba47b8067b00aefe957
+      internalID: 357325371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_114
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 343
+        width: 40
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675a844849992904db5ee837b78e8ffd
+      internalID: 370107560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_115
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 343
+        width: 40
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b645bf3b0da274587a6e297b8e323f
+      internalID: 1146307832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_116
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 343
+        width: 40
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbfbd1c68bfef645b2a852eef32cc63
+      internalID: -784161092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI assets Demo (1x)_117
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 340
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e5cd9e99ef0eb48aefaf360748a703
+      internalID: 1695511191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 86c6f34c5307f5b4092df4880e32eab7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UI assets Demo (1x)_0: -1598288190
+      UI assets Demo (1x)_1: -30468590
+      UI assets Demo (1x)_10: -1415308412
+      UI assets Demo (1x)_100: -946091897
+      UI assets Demo (1x)_101: -355701300
+      UI assets Demo (1x)_102: 340465686
+      UI assets Demo (1x)_103: 1043330183
+      UI assets Demo (1x)_104: 1036477245
+      UI assets Demo (1x)_105: -330654570
+      UI assets Demo (1x)_106: -254086479
+      UI assets Demo (1x)_107: 56374596
+      UI assets Demo (1x)_108: -1460384302
+      UI assets Demo (1x)_109: -1023180455
+      UI assets Demo (1x)_11: 1830451864
+      UI assets Demo (1x)_110: 375148703
+      UI assets Demo (1x)_111: 1350204641
+      UI assets Demo (1x)_112: 360735753
+      UI assets Demo (1x)_113: 946025784
+      UI assets Demo (1x)_114: 370107560
+      UI assets Demo (1x)_115: 1146307832
+      UI assets Demo (1x)_116: -784161092
+      UI assets Demo (1x)_117: 1695511191
+      UI assets Demo (1x)_12: 600734221
+      UI assets Demo (1x)_13: -1414077219
+      UI assets Demo (1x)_14: 1392781116
+      UI assets Demo (1x)_15: 168936743
+      UI assets Demo (1x)_16: -1244169475
+      UI assets Demo (1x)_17: -845639884
+      UI assets Demo (1x)_18: -1726115544
+      UI assets Demo (1x)_19: 595471144
+      UI assets Demo (1x)_2: -1687613822
+      UI assets Demo (1x)_20: -1481858042
+      UI assets Demo (1x)_21: 1300146627
+      UI assets Demo (1x)_22: -1059512989
+      UI assets Demo (1x)_23: 893786668
+      UI assets Demo (1x)_24: 1441623353
+      UI assets Demo (1x)_25: -1052587864
+      UI assets Demo (1x)_26: 223385843
+      UI assets Demo (1x)_27: 1472175870
+      UI assets Demo (1x)_28: -1393007080
+      UI assets Demo (1x)_29: -1287908368
+      UI assets Demo (1x)_3: 682853910
+      UI assets Demo (1x)_30: 1646402369
+      UI assets Demo (1x)_31: 2020672390
+      UI assets Demo (1x)_32: 2147165877
+      UI assets Demo (1x)_33: 1568555237
+      UI assets Demo (1x)_34: 1882041718
+      UI assets Demo (1x)_35: 1103946187
+      UI assets Demo (1x)_36: 1048863205
+      UI assets Demo (1x)_37: 1096681888
+      UI assets Demo (1x)_38: -797274865
+      UI assets Demo (1x)_39: 622491623
+      UI assets Demo (1x)_4: 919918066
+      UI assets Demo (1x)_40: 1543347324
+      UI assets Demo (1x)_41: 357325371
+      UI assets Demo (1x)_42: -457512242
+      UI assets Demo (1x)_43: -346154508
+      UI assets Demo (1x)_44: 192128849
+      UI assets Demo (1x)_45: 485580061
+      UI assets Demo (1x)_46: 1984903703
+      UI assets Demo (1x)_47: 1635909181
+      UI assets Demo (1x)_48: 1251658227
+      UI assets Demo (1x)_49: 1866123703
+      UI assets Demo (1x)_5: -106002466
+      UI assets Demo (1x)_50: 1554374055
+      UI assets Demo (1x)_51: 1921714946
+      UI assets Demo (1x)_52: 1724896548
+      UI assets Demo (1x)_53: -1932068324
+      UI assets Demo (1x)_54: -1643524459
+      UI assets Demo (1x)_55: 688433034
+      UI assets Demo (1x)_56: -1322832940
+      UI assets Demo (1x)_57: 2002809088
+      UI assets Demo (1x)_58: -260321114
+      UI assets Demo (1x)_59: -1141278084
+      UI assets Demo (1x)_6: -1514627243
+      UI assets Demo (1x)_60: 281930869
+      UI assets Demo (1x)_61: 804585283
+      UI assets Demo (1x)_62: -1525040016
+      UI assets Demo (1x)_63: 364780774
+      UI assets Demo (1x)_64: 1361522470
+      UI assets Demo (1x)_65: 2104659995
+      UI assets Demo (1x)_66: 1251934979
+      UI assets Demo (1x)_67: 1958642155
+      UI assets Demo (1x)_68: 1248211328
+      UI assets Demo (1x)_69: 1817371149
+      UI assets Demo (1x)_7: -1181545494
+      UI assets Demo (1x)_70: 1355039268
+      UI assets Demo (1x)_71: 1224601735
+      UI assets Demo (1x)_72: 352382834
+      UI assets Demo (1x)_73: 20049132
+      UI assets Demo (1x)_74: -1616277099
+      UI assets Demo (1x)_75: -267417551
+      UI assets Demo (1x)_76: 834922418
+      UI assets Demo (1x)_77: 141008771
+      UI assets Demo (1x)_78: 1588339079
+      UI assets Demo (1x)_79: 1580674664
+      UI assets Demo (1x)_8: 621560181
+      UI assets Demo (1x)_80: -1528298831
+      UI assets Demo (1x)_81: -221411389
+      UI assets Demo (1x)_82: 1859770517
+      UI assets Demo (1x)_83: 271583320
+      UI assets Demo (1x)_84: -1460862766
+      UI assets Demo (1x)_85: 487936612
+      UI assets Demo (1x)_86: 1045633872
+      UI assets Demo (1x)_87: 1748044307
+      UI assets Demo (1x)_88: -1960744780
+      UI assets Demo (1x)_89: 181814040
+      UI assets Demo (1x)_9: 506769229
+      UI assets Demo (1x)_90: -649615161
+      UI assets Demo (1x)_91: -996416866
+      UI assets Demo (1x)_92: 1240836168
+      UI assets Demo (1x)_93: 1701058901
+      UI assets Demo (1x)_94: 1960510767
+      UI assets Demo (1x)_95: -1367084832
+      UI assets Demo (1x)_96: 95998655
+      UI assets Demo (1x)_97: 1044425127
+      UI assets Demo (1x)_98: 732927113
+      UI assets Demo (1x)_99: -1952592755
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
